@@ -1,4 +1,4 @@
-# security-engineering-lans
+# security-engineering-labs
 Hands-on security engineering labs covering vulnerability management, logging, and compliance fundamentals
 This repository contains hands-on security engineering labs focused on vulnerability management, logging and monitoring, system hardening, and compliance-aligned security controls.
 
